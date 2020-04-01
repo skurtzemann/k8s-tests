@@ -318,7 +318,7 @@ periodics:
       name: ""
       resources: {}
   tags:
-  - 'perfDashPrefix: gce-100Nodes-1.18'
+  - 'perfDashPrefixDisabled: gce-100Nodes-1.18'
   - 'perfDashJobType: performance'
   - 'perfDashBuildsCount: 500'
 - annotations:
